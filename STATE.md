@@ -20,6 +20,6 @@ Actualizado el 2026-11-10 (GMT-3).
 3. Si piden probar el parche: compilar el módulo con la entrada `"Inspiron 580s"`, sacar
    la blacklist y repetir la carga hasta 70 °C.
 
-## Pendiente de decidir
+## Repo
 
-- Si el proyecto se sube a GitHub, y dónde. Por ahora es un repo de git local.
+- Público en https://github.com/alfredoka/fan-kernel-blacklist (subido el 2026-11-10).
