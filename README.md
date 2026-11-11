@@ -1,4 +1,4 @@
-# fan-kernell-blacklist
+# fan-kernel-blacklist
 
 En la Dell Inspiron 580s el ventilador del procesador subía y bajaba cada 7 a 12 s, entre
 ~300 y ~3300 rpm. La causa es el driver del kernel `dell_smm_hwmon`, y la solución es no

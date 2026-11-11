@@ -10,8 +10,6 @@ Actualizado el 2026-11-10 (GMT-3).
 - Pruebas de carga de 60 s, hasta 70 °C y de 5 min: sin picos y temperatura estable.
 - Se encontró en el código del kernel por qué la excepción del Inspiron 580 no cubre la 580s.
 - Borrador del reporte en inglés: `reports/bug-dell-smm-hwmon-inspiron-580s.md`.
-- El 2026-11-10 se movió acá desde las notas del proyecto paperclip, que ya no tiene nada
-  de este tema.
 
 ## Próximo paso
 

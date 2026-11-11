@@ -90,7 +90,7 @@ Bitácora de las pruebas del 2026-11-10, horas en GMT-3. Se movió acá desde la
     70 °C y se cortó. Al cortar, 55 °C en 5 s y 49 °C a los 30 s. Alfred: no hubo
     picos ni durante ni después; el ventilador se oye muy silencioso todo el tiempo.
   - **Carga de 5 min (21:39:29–21:44:53, GMT-3)**, mostrada en vivo en la ventana 1 de
-    tmux (script `carga-larga.sh` en el scratchpad de la sesión): 44 °C en reposo,
+    tmux (script `scripts/carga-larga.sh`): 44 °C en reposo,
     70 °C a los 75 s, 72 °C a los 2 min, y de ahí se estabilizó entre 72 y 73 °C, con
     un máximo de 74 °C al final. Al cortar, 54 °C a los 15 s y 48 °C al minuto. Que la
     temperatura se estabilice sugiere que el ventilador sí acompaña algo, aunque sin el
